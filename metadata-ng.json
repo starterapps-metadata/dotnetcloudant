@@ -20,6 +20,7 @@
         "termsUrl": "http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
     },
     "source": {
+        "scmType" : "git",
         "url": "https://github.com/IBM-Bluemix/asp.net5-cloudant.git",
         "appPath": ""
     },
