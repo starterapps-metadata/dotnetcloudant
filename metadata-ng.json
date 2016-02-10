@@ -9,7 +9,7 @@
     "type": "web",
     "defaultMemory": 256,
     "version": "0.8",
-    "description": "This application demonstrates how to use the Cloudant NoSQL DB Service in an ASP.NET 5 application.",
+    "description": "Use the Cloudant NoSQL DB Service in an ASP.NET 5 application.",
     "smallIcon": "i_cloudant_net_24.png",
     "icon": "i_cloudant_net_32.png",
     "largeIcon": "i_cloudant_net_50.png",
