@@ -30,39 +30,39 @@
         "i18n": {
             "de": {
                 "name": "ASP.NET 5 Cloudant Starter",
-                "description": "Diese Anwendung veranschaulicht die Verwendung des Cloudant NoSQL-DB-Service in einer ASP.NET 5-Anwendung."
+                "description": "Cloudant NoSQL DB-Service in einer ASP.NET 5-Anwendung verwenden."
             },
 			"es": {
                 "name": "ASP.NET 5 Cloudant Starter",
-                "description": "Esta aplicación muestra cómo utilizar el servicio Cloudant NoSQL DB en una aplicación ASP.NET 5."
+                "description": "Utilice el servicio Cloudant NoSQL DB en una aplicación ASP.NET 5."
             },
 			"fr": {
                 "name": "ASP.NET 5 Cloudant Starter",
-                "description": "Cette application explique comment utiliser le service Cloudant NoSQL DB dans une application ASP.NET 5."
+                "description": "Utilisez le service Cloudant NoSQL DB dans une application ASP.NET 5."
             },
 			"it": {
                 "name": "ASP.NET 5 Cloudant Starter",
-                "description": "Questa applicazione mostra come utilizzare il servizio Cloudant NoSQL DB in un'applicazione ASP.NET 5."
+                "description": "Utilizza il servizio Cloudant NoSQL DB in un'applicazione ASP.NET 5."
             },
 			"ja": {
                 "name": "ASP.NET 5 Cloudant Starter",
-                "description": "このアプリケーションは、Cloudant NoSQL DB Service を ASP.NET 5 アプリケーションで使用する方法を示します。"
-            },
-			"pt-BR": {
-                "name": "ASP.NET 5 Cloudant Starter",
-                "description": "Este aplicativo demonstra como usar o Serviço Cloudant NoSQL DB em um aplicativo ASP.NET 5."
-            },
-			"zh-Hans": {
-                "name": "ASP.NET 5 Cloudant Starter",
-                "description": "此应用程序演示如何在 ASP.NET 5 应用程序中使用 Cloudant NoSQL DB 服务。"
-            },
-			"zh-Hant": {
-                "name": "ASP.NET 5 Cloudant Starter",
-                "description": "此應用程式示範如何在 ASP.NET 5 應用程式中使用「Cloudant NoSQL DB 服務」。"
+                "description": "Cloudant NoSQL DB サービスを ASP.NET 5 アプリケーションで使用します。"
             },
 			"ko": {
                 "name": "ASP.NET 5 Cloudant Starter",
-                "description": "이 애플리케이션은 ASP.NET 5 애플리케이션에서 Cloudant NoSQL DB 서비스의 사용 방법을 설명합니다. "
+                "description": "ASP.NET 5 애플리케이션에서 Cloudant NoSQL DB 서비스를 사용합니다. "
+            },
+			"pt-BR": {
+                "name": "ASP.NET 5 Cloudant Starter",
+                "description": "Use o Serviço Cloudant NoSQL DB em um aplicativo ASP.NET 5."
+            },
+			"zh-Hans": {
+                "name": "ASP.NET 5 Cloudant Starter",
+                "description": "在 ASP.NET 5 应用程序中使用 Cloudant NoSQL DB 服务。"
+            },
+			"zh-Hant": {
+                "name": "ASP.NET 5 Cloudant Starter",
+                "description": "在 ASP.NET 5 應用程式中使用 Cloudant NoSQL DB 服務。"
             }
         }
     }
