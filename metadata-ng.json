@@ -1,5 +1,5 @@
 {
-    "name": "ASP.NET 5 Cloudant Starter",
+    "name": "ASP.NET Core Cloudant Starter",
     "services": [
         {
             "name": "cloudantNoSQLDB",
@@ -8,8 +8,8 @@
     ],
     "type": "web",
     "defaultMemory": 256,
-    "version": "0.8",
-    "description": "Use the Cloudant NoSQL DB Service in an ASP.NET 5 application.",
+    "version": "0.9",
+    "description": "Use the Cloudant NoSQL DB Service in an ASP.NET Core application.",
     "smallIcon": "i_cloudant_net_24.png",
     "icon": "i_cloudant_net_32.png",
     "largeIcon": "i_cloudant_net_50.png",
@@ -29,40 +29,40 @@
     "extra": {
         "i18n": {
             "de": {
-                "name": "ASP.NET 5 Cloudant Starter",
-                "description": "Cloudant NoSQL DB-Service in einer ASP.NET 5-Anwendung verwenden."
+                "name": "ASP.NET Core Cloudant Starter",
+                "description": "Cloudant NoSQL DB-Service in einer ASP.NET Core-Anwendung verwenden."
             },
 			"es": {
-                "name": "ASP.NET 5 Cloudant Starter",
-                "description": "Utilice el servicio Cloudant NoSQL DB en una aplicación ASP.NET 5."
+                "name": "ASP.NET Core Cloudant Starter",
+                "description": "Utilice el servicio Cloudant NoSQL DB en una aplicación ASP.NET Core."
             },
 			"fr": {
-                "name": "ASP.NET 5 Cloudant Starter",
-                "description": "Utilisez le service Cloudant NoSQL DB dans une application ASP.NET 5."
+                "name": "ASP.NET Core Cloudant Starter",
+                "description": "Utilisez le service Cloudant NoSQL DB dans une application ASP.NET Core."
             },
 			"it": {
-                "name": "ASP.NET 5 Cloudant Starter",
-                "description": "Utilizza il servizio Cloudant NoSQL DB in un'applicazione ASP.NET 5."
+                "name": "ASP.NET Core Cloudant Starter",
+                "description": "Utilizza il servizio Cloudant NoSQL DB in un'applicazione ASP.NET Core."
             },
 			"ja": {
-                "name": "ASP.NET 5 Cloudant Starter",
-                "description": "Cloudant NoSQL DB サービスを ASP.NET 5 アプリケーションで使用します。"
+                "name": "ASP.NET Core Cloudant Starter",
+                "description": "Cloudant NoSQL DB サービスを ASP.NET Core アプリケーションで使用します。"
             },
 			"ko": {
-                "name": "ASP.NET 5 Cloudant Starter",
-                "description": "ASP.NET 5 애플리케이션에서 Cloudant NoSQL DB 서비스를 사용합니다. "
+                "name": "ASP.NET Core Cloudant Starter",
+                "description": "ASP.NET Core 애플리케이션에서 Cloudant NoSQL DB 서비스를 사용합니다. "
             },
 			"pt-BR": {
-                "name": "ASP.NET 5 Cloudant Starter",
-                "description": "Use o Serviço Cloudant NoSQL DB em um aplicativo ASP.NET 5."
+                "name": "ASP.NET Core Cloudant Starter",
+                "description": "Use o Serviço Cloudant NoSQL DB em um aplicativo ASP.NET Core."
             },
 			"zh-Hans": {
-                "name": "ASP.NET 5 Cloudant Starter",
-                "description": "在 ASP.NET 5 应用程序中使用 Cloudant NoSQL DB 服务。"
+                "name": "ASP.NET Core Cloudant Starter",
+                "description": "在 ASP.NET Core 应用程序中使用 Cloudant NoSQL DB 服务。"
             },
 			"zh-Hant": {
-                "name": "ASP.NET 5 Cloudant Starter",
-                "description": "在 ASP.NET 5 應用程式中使用 Cloudant NoSQL DB 服務。"
+                "name": "ASP.NET Core Cloudant Starter",
+                "description": "在 ASP.NET Core 應用程式中使用 Cloudant NoSQL DB 服務。"
             }
         }
     }
