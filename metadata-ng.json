@@ -8,20 +8,20 @@
     ],
     "type": "web",
     "defaultMemory": 256,
-    "version": "0.9",
+    "version": "0.10",
     "description": "Use the Cloudant NoSQL DB Service in an ASP.NET Core application.",
     "smallIcon": "i_cloudant_net_24.png",
     "icon": "i_cloudant_net_32.png",
     "largeIcon": "i_cloudant_net_50.png",
     "featuredIcon": "i_cloudant_net_64.png",
-    "system_tags": ["ibm_experimental"],
+    "system_tags": ["ibm_beta"],
     "categories": [ "boilerplate" ],
     "metadata": {
         "termsUrl": "http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
     },
     "source": {
         "scmType" : "git",
-        "url": "https://github.com/IBM-Bluemix/asp.net5-cloudant.git",
+        "url": "https://github.com/IBM-Bluemix/aspnet-core-cloudant.git",
         "appPath": ""
     },
     "docURL": "/#starters/dotnet/index.html#dotnet",
