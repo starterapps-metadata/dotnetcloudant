@@ -24,7 +24,7 @@
         "url": "https://github.com/IBM-Bluemix/aspnet-core-cloudant.git",
         "appPath": ""
     },
-    "docURL": "/#starters/dotnet/index.html#dotnet",
+    "docURL": "/#runtimes/dotnet/index.html#dotnet",
     "runtime_template_id": "dotnetHelloWorld",
     "extra": {
         "i18n": {
