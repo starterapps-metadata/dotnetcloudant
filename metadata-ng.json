@@ -7,7 +7,7 @@
         }
     ],
     "type": "web",
-    "defaultMemory": 256,
+    "defaultMemory": 512,
     "version": "1.0",
     "description": "Use the Cloudant NoSQL DB Service in an ASP.NET Core application.",
     "smallIcon": "i_cloudant_net_24.png",
