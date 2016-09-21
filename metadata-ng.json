@@ -3,7 +3,7 @@
     "services": [
         {
             "name": "cloudantNoSQLDB",
-            "choices": [ "Shared" ]
+            "choices": [ "Lite" ]
         }
     ],
     "type": "web",
